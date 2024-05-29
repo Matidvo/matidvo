@@ -1,5 +1,5 @@
 # About Me 
-I'm a 21 year-old software engineering student at Universidad de Buenos Aires (UBA) and cybersecurity developer at Mercado Libre, the leading company in Latin America in ecommerce, payments, logistics and technology. In particular, I find myself developing identity management (IAM) solutions. I love exploring innovative and effective solutions to technical problems that involve finding a balance between security and user experience.
+I'm a 22 year-old software engineering student at Universidad de Buenos Aires (UBA) and cybersecurity developer at Mercado Libre, the leading company in Latin America in ecommerce, payments, logistics and technology. In particular, I find myself developing identity management (IAM) solutions. I love exploring innovative and effective solutions to technical problems that involve finding a balance between security and user experience.
 
 On a daily basis I mainly use Python and Golang, but I am also comfortable programming in Javascript and C/C++
 
